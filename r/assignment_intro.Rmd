@@ -1,0 +1,13 @@
+---
+title: "Assignment Introduction"
+output: html_document
+date: "2024-11-20"
+---
+
+# Introduction
+
+This document contains the R script for printing integers from 1 to 10.
+
+```{r}
+print(1:10)
+
